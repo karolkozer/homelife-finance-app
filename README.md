@@ -8,26 +8,3 @@ Webapack 2 , ES6 / ES7, Babel , Sass , Fixer
 
 ### Fixer API
 Foreign exchange rates and currency conversion API published by the European Central Bank.
-
-### Run project
-
-Require [Node](https://nodejs.org/en/) 
-
-Install the dependencies:
-
-```
-npm install
-```
-
-Run dev server:
-
-```
-npm run dev
-```
-
-Localhost:
- `http://localhost:6080/`
-
-
-
- 
